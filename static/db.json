@@ -1,0 +1,15 @@
+{
+    "games": [
+        {
+            "name": "LOL",
+            "uid": "1"
+        },
+        {
+            "name": "CF",
+            "uid": "2"
+        },{
+            "name": "PUBG",
+            "uid": "3"
+        }
+    ]
+}
